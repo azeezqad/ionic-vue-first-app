@@ -1,0 +1,13 @@
+{
+  "appId": "com.azizqad.myproduct",
+  "appName": "my-products",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
